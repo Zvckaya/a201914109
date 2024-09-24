@@ -1,0 +1,9 @@
+package a201914109;
+
+public class Hello {
+
+	public static void run() {
+		System.out.println("hello world");
+	}
+
+}
